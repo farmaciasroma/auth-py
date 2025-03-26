@@ -173,3 +173,10 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 cosa.py
+*.db
+*.db-wal
+*.db-shm
+*.vsidx
+*.json
+*.wsuo
+*.sqlite
