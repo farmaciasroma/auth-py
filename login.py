@@ -9,3 +9,5 @@ def login(user_manager, username, password):
         return True
     print("Login failed!")
     return False
+
+# JC
